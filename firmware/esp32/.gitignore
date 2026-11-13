@@ -1,0 +1,15 @@
+# PlatformIO 构建产物(41MB)
+.pio/
+.vscode/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 手工备份 —— 有了 git 就不该再靠它们，先留在磁盘上不删。
+# 注意用 *.bak* 而不是 *.bak.*：历史上有 main.cpp.bak-0907-decel 这种连字符命名的
+*.bak*
+*.FIXED_ALL
+
+# WiFi 凭据（含个人手机热点密码），只留模板 wifi_creds.example.h
+src/wifi_creds.h
