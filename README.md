@@ -2,6 +2,10 @@
 
 English | [中文](README.zh-CN.md)
 
+[![Watch the Looper car video](https://img.youtube.com/vi/pFE__Sl7H8M/maxresdefault.jpg)](https://www.youtube.com/watch?v=pFE__Sl7H8M)
+
+Video: [YouTube](https://www.youtube.com/watch?v=pFE__Sl7H8M) · [Bilibili](https://www.bilibili.com/video/BV1Gepv6jE2D/)
+
 Build a differential-drive car that maps and navigates on its own: one Looper camera plus an ESP32, a motor driver board, two motors and a few 3D-printed parts.
 
 - Mapping, localization, obstacle avoidance and the web UI all run inside the Looper. **You need a Looper with the differential-drive car system pre-installed**; mention this when ordering.

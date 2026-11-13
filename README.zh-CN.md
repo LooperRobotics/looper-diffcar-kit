@@ -2,6 +2,10 @@
 
 [English](README.md) | 中文
 
+[![观看 Looper 小车视频](https://img.youtube.com/vi/pFE__Sl7H8M/maxresdefault.jpg)](https://www.bilibili.com/video/BV1Gepv6jE2D/)
+
+视频：[B 站](https://www.bilibili.com/video/BV1Gepv6jE2D/) · [YouTube](https://www.youtube.com/watch?v=pFE__Sl7H8M)
+
 用一台 Looper 相机，加上 ESP32、电机驱动板、两个电机和几个 3D 打印件，搭一台能建图、自主导航的差速小车。
 
 - 建图、定位、避障、网页控制都在 Looper 里运行，**需要预装差速车系统的 Looper**，购买时请说明。
